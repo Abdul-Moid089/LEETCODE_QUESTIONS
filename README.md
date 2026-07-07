@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0623-add-one-row-to-tree) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
