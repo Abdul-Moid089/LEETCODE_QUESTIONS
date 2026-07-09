@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3620-network-recovery-pathways) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
