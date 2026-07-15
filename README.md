@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
