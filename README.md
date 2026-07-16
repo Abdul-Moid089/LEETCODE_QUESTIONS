@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,9 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0584-find-customer-referee) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
