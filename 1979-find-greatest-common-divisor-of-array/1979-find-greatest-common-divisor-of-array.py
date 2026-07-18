@@ -1,12 +1,5 @@
+from math import gcd
+
 class Solution:
     def findGCD(self, nums: List[int]):
-
-        smallest = min(nums)
-        largest = max(nums)
-
-        def gcd(a, b):
-            while b:
-                a, b = b, a % b
-            return a
-
-        return gcd(smallest, largest)
+        return gcd(min(nums), max(nums))
