@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
