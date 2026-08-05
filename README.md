@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0012-integer-to-roman) |
+| [0142-linked-list-cycle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0147-insertion-sort-list) |
 | [0622-design-circular-queue](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0622-design-circular-queue) |
 ## Design
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
