@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -275,9 +277,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0220-contains-duplicate-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Linked List
 |  |
