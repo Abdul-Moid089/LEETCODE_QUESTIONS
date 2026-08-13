@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0220-contains-duplicate-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
