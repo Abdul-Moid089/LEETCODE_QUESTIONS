@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0584-find-customer-referee) |
 | [1484-group-sold-products-by-the-date](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1484-group-sold-products-by-the-date) |
 | [1729-find-followers-count](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1729-find-followers-count) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1873-calculate-special-bonus) |
 ## Simulation
 |  |
