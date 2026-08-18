@@ -6,11 +6,9 @@ class Solution:
         n = len(nums)
         count = Counter(nums)
 
-        # If k == n, there is only one subarray: the whole array
         if k == n:
             return max(nums)
 
-        # If k == 1, every element is its own subarray
         if k == 1:
             ans = -1
 
@@ -19,8 +17,6 @@ class Solution:
                     ans = max(ans, num)
 
             return ans
-
-        # For 1 < k < n, only first and last elements can qualify
         ans = -1
 
         if count[nums[0]] == 1:
