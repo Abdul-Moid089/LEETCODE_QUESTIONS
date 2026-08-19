@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1470-shuffle-the-array) |
 | [1563-stone-game-v](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1563-stone-game-v) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1929-concatenation-of-array) |
