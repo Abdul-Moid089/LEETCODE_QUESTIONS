@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0623-add-one-row-to-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -157,17 +158,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0623-add-one-row-to-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0623-add-one-row-to-tree) |
 ## Math
 |  |
