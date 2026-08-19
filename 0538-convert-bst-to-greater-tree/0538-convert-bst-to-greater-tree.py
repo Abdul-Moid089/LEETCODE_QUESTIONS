@@ -1,20 +1,19 @@
 class Solution:
     def convertBST(self, root):
+        stack = []
         total = 0
+        curr = root
 
-        def dfs(node):
-            nonlocal total
+        while stack or curr:
+            while curr:
+                stack.append(curr)
+                curr = curr.right
 
-            if not node:
-                return
+            curr = stack.pop()
 
-            dfs(node.right)
+            total += curr.val
+            curr.val = total
 
-            total += node.val
-            node.val = total
-
-            dfs(node.left)
-
-        dfs(root)
+            curr = curr.left
 
         return root
