@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0220-contains-duplicate-iii) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0485-max-consecutive-ones) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
