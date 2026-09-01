@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0220-contains-duplicate-iii) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0220-contains-duplicate-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
