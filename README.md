@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1382-balance-a-binary-search-tree) |
 ## Trie
 |  |
