@@ -4,7 +4,7 @@ class Solution:
         min_even = float('inf')
 
         for x in nums1:
-            if x % 2:
+            if x % 2 == 1:
                 min_odd = min(min_odd, x)
             else:
                 min_even = min(min_even, x)
