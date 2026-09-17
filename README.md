@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
+| [0896-monotonic-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
