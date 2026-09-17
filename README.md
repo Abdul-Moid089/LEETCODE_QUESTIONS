@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1563-stone-game-v) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1872-stone-game-viii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1872-stone-game-viii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
