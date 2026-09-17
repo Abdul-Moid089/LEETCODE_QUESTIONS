@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0645-set-mismatch) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1382-balance-a-binary-search-tree) |
