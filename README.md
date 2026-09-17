@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0220-contains-duplicate-iii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0623-add-one-row-to-tree) |
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
