@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
