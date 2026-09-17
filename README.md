@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0905-sort-array-by-parity) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
