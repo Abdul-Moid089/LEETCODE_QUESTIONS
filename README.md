@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0136-single-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0171-excel-sheet-column-number) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
