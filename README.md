@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
