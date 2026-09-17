@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0217-contains-duplicate) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
