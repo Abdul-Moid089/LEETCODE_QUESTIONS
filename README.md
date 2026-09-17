@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
