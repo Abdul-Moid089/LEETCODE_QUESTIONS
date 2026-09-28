@@ -2,11 +2,11 @@ class Solution:
     def maxDepth(self, s: str) -> int:
         count=0
         ans=0
-        for ch in s:
-            if ch=='(':
+        for i in range (len(s)):
+            if s[i]=="(":
                 count+=1
                 ans=max(ans,count)
-            elif ch==")":
+            elif s[i]==")":
                 count-=1
         return ans
             
