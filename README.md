@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1382-balance-a-binary-search-tree) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
