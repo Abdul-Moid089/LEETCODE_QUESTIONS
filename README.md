@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1096-brace-expansion-ii) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1386-cinema-seat-allocation) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
