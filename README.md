@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0622-design-circular-queue) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1096-brace-expansion-ii) |
 ## Game Theory
 |  |
@@ -806,4 +809,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
