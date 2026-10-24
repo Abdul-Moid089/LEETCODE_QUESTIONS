@@ -9,5 +9,4 @@ class Solution:
                 else:
                     misplaced_and &= val
                     
-        # If no elements are misplaced, the array is already sorted
         return misplaced_and if misplaced_and != -1 else 0
