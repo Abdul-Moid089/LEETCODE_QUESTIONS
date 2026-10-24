@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0414-third-maximum-number) |
+| [0419-battleships-in-a-board](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0419-battleships-in-a-board](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0419-battleships-in-a-board) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0547-number-of-provinces) |
