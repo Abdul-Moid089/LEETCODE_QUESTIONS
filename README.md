@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0623-add-one-row-to-tree) |
 | [0934-shortest-bridge](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0934-shortest-bridge) |
+| [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
