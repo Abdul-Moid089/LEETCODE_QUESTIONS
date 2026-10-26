@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
+| [0279-perfect-squares](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0494-target-sum) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
@@ -820,9 +823,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
