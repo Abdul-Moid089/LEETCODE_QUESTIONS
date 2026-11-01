@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0171-excel-sheet-column-number) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0171-excel-sheet-column-number) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1929-concatenation-of-array) |
