@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0279-perfect-squares) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
