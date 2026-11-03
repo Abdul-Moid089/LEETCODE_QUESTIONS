@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1510-stone-game-iv) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1872-stone-game-viii) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -888,4 +892,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0322-coin-change) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
