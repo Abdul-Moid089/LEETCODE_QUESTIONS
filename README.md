@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0622-design-circular-queue) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0301-remove-invalid-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0771-jewels-and-stones) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0884-uncommon-words-from-two-sentences) |
