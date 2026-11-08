@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1386-cinema-seat-allocation) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0623-add-one-row-to-tree) |
 | [0934-shortest-bridge](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
@@ -702,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1267-count-servers-that-communicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
