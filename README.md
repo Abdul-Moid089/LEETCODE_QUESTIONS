@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
