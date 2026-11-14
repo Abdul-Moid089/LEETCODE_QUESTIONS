@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0119-pascals-triangle-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
