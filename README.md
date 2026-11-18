@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0419-battleships-in-a-board) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
