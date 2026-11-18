@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1631-path-with-minimum-effort](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1631-path-with-minimum-effort](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -604,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1631-path-with-minimum-effort](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -941,4 +948,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1143-longest-common-subsequence) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
