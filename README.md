@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0051-n-queens) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0070-climbing-stairs) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
