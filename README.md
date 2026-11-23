@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0279-perfect-squares) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0835-image-overlap) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Abdul-Moid089/LEETCODE_QUESTIONS/tree/master/1254-number-of-closed-islands) |
